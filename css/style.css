@@ -11,7 +11,10 @@ body{
 }
 /* navbar */
 .navbar-container{
+    top: 0;
     background-color: #262B37;
+    position: sticky;
+    z-index: 2;
 }
 /* About */
 .about-container{
@@ -36,4 +39,8 @@ body{
 /* Project */
 .project-container{
     background-color: #2BB3DD;
+}
+/* Contact */
+.form-container{
+    background-color: #474D5D;
 }
