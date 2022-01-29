@@ -27,6 +27,9 @@ body{
 .bg-redtype{
     background-color: #FB857F;
 }
+.bg-redtype:hover{
+    color: black!important;
+}
 .redtype-color{
     color: #FB857F;
 }
@@ -43,4 +46,14 @@ body{
 /* Contact */
 .form-container{
     background-color: #474D5D;
+}
+.bummy-box{
+    font-size: 72px;
+}
+.inner-form{
+    background-color: #585F73;
+}
+/* footer */
+.footer{
+    background-color: #2BB3DD;
 }
